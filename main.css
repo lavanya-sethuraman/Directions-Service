@@ -1,0 +1,42 @@
+#map {
+
+  float:right;
+  height:500px;
+  width:500px;
+  margin-top:50px;
+}
+body{
+  display: inline-block;
+}
+input,button{
+  width:200px;
+  height:30px;
+  margin-top:20px;
+  padding-top:5px;
+  font-family: 'Roboto','sans-serif';
+  line-height: 30px;
+  padding-left: 10px;
+  font-size:20px;
+}
+}
+form{
+  border:1px solid black;
+  margin-top:100px;
+  margin-left: 100px;
+  padding-top:5px;
+  width:200px;
+  height:200px;
+  border-style: 1px solid grey;
+}
+label{
+  font-weight: bold;
+  display:block;
+  clear:both;
+  margin-left: 100px;
+
+}
+button{
+  text-align: center;
+  padding-top:0px;
+  margin-top: 40px;
+}
